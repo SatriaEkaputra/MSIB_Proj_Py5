@@ -1,0 +1,9 @@
+customer_id,purchase_date,product_category,amount_spent,total_spent,Spending_Category,Product_Category
+C001,2023-03-01,Electronics,250.0,250.0,Medium,Electronics
+C002,2023-03-02,Books,45.5,45.5,Low,Books
+C003,2023-03-03,Home & Garden,150.75,150.75,Medium,Home & Garden
+C001,2023-03-04,Books,20.0,20.0,Low,Books
+C002,2023-03-05,Electronics,525.0,525.0,High,Electronics
+C004,,Electronics,399.99,399.99,Medium,Electronics
+C003,,Books,10.5,10.5,Low,Books
+C005,2023-03-07,Beauty,75.0,75.0,Low,Beauty
